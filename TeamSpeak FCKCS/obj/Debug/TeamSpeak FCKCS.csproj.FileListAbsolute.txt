@@ -1,0 +1,7 @@
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\bin\Debug\TeamSpeak FCKCS.exe.config
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\bin\Debug\TeamSpeak FCKCS.exe
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\bin\Debug\TeamSpeak FCKCS.pdb
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\obj\Debug\TeamSpeak FCKCS.csprojResolveAssemblyReference.cache
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\obj\Debug\TeamSpeak FCKCS.csproj.CoreCompileInputs.cache
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\obj\Debug\TeamSpeak FCKCS.exe
+C:\Users\justa\Documents\SourceTree\TeamSpeak FCKCS\TeamSpeak FCKCS\obj\Debug\TeamSpeak FCKCS.pdb
